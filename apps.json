@@ -1,10 +1,6 @@
 {
   "name": "EpicDoge's AltStore Repo",
   "identifier": "com.epicdoeplays.source",
-  "META": {
-    "repoName": "SpotC",
-    "repoIcon": "https://raw.githubusercontent.com/SpotCompiled/.github/main/SpotC%20Icon.png"
-  },
   "apps": [
     {
       "name": "UTM",
