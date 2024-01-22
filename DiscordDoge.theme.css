@@ -41,18 +41,18 @@
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
-  --dplus-backdrop: url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);
-
-  --dplus-accent-color-hue: 210; /* Blue hue */
+  --dplus-backdrop: url(https://media.discordapp.net/attachments/775467685365809162/1199109007642742874/backgroundd.jpg);
+  
+  --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
   --dplus-accent-color-lightness: 31%;
-
-  --dplus-foreground-color-hue-base: 210; /* Blue hue */
-  --dplus-foreground-color-hue-links: 197; /* Blue hue for links */
+  
+  --dplus-foreground-color-hue-base: 210;
+  --dplus-foreground-color-hue-links: 197;
   --dplus-foreground-color-saturation-amount: 1;
   --dplus-foreground-color-lightness-amount: 1;
 
-  --dplus-background-color-hue: 210; /* Blue hue */
+  --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.8;
